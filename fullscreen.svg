@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25" width="25" height="25">
+	<title>fullscreen-svg</title>
+	<defs>
+		<image  width="19" height="19" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAATAQMAAABInqSPAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAA////pdmf3QAAAAJ0Uk5T/wDltzBKAAAAFUlEQVR4nGNkYGBgBGH7A41kY6gZAFaTFpTMdO0iAAAAAElFTkSuQmCC"/>
+		<image  width="5" height="6" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAGBAMAAAD51Ul4AAAAAXNSR0IB2cksfwAAABhQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAA////Vok6OAAAAAh0Uk5TxQDO//3EKADb0P32AAAAG0lEQVR4nGNkFPzHaMzwFojvgrHzB1nGdIGfAEzVBxcjj63SAAAAAElFTkSuQmCC"/>
+		<image  width="6" height="5" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAFBAMAAACUdoDVAAAAAXNSR0IB2cksfwAAABhQTFRFAAAAAAAAAAAAAAAAAAAA////AAAAAAAAqwVctwAAAAh0Uk5Txv/9KAAAzc7DLX6XAAAAGUlEQVR4nGNkFBBidLzAAsaJG1gY3f8eBAAnkgVtFpUWeAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<g id="layer1">
+		<use id="rect5006" href="#img1" x="3" y="3"/>
+		<use id="path5017" href="#img2" x="7" y="13"/>
+		<use id="path5025" href="#img3" x="13" y="7"/>
+	</g>
+</svg>
